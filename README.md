@@ -1,6 +1,5 @@
 ### Hello there! 👋 
-I'm @Ssslakter, this is my nickname in a world wide web.
-Currently navigating university life, have a big interest in AI safety/interp. Open to collaborating on exciting AI projects, so if you have ideas, let's discuss!🚀
+I'm Slava, currently navigating university life, have a big interest in AI safety/interp. Open to collaborating on exciting AI projects, so if you have ideas, let's discuss!🚀
 
 <!---
 Ssslakter/Ssslakter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
